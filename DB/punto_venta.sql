@@ -353,10 +353,10 @@ CREATE TABLE `pv_usuario` (
 --
 
 INSERT INTO `pv_usuario` (`Id_Usuario`, `Id_Empleado`, `Usuario`, `Correo`, `Contrasena`) VALUES
-(1, 4, 'MGABRIEL', 'manuel@dominio.com.gt', '$2y$10$RgLCPOmBfjbnPR0cCCZ8lOdvXL8hzGqbi5YRLWZPSE2nrTULF2TbW'),
-(2, 2, 'HECTOR', 'mattis.velit@asahi.com.gt', '$2y$10$pZJMZTw/onjR3sHG7NfBkOy8A/M8ey/otxlS7x7M9xcFzAt9jeIFi'),
-(3, 5, 'GEMMA', 'pellentesque.Sed@dominio.com.gt', '$2y$10$QIa9nogVCfzAYTUCkH4eLOkNPDh2fYME4Vq14I2r/fzEK09WjzL5e'),
-(4, 3, 'ALANA', 'vel.est@dominio.com.gt', '$2y$10$9IVB/vTHfOBDcosNet9msekuTrQndytcz5IY1yugc/MGGp5ULq4Ki'),
+(1, 4, 'MGABRIEL', 'manuel@dominio.com.gt', '$2y$10$4aIT.BLjAFekcGb4ulKWiedmPKQMl4eRZ6gvKEI2ZhUQRXkQppjzO'),
+(2, 2, 'HECTOR', 'mattis.velit@asahi.com.gt', '$2y$10$4aIT.BLjAFekcGb4ulKWiedmPKQMl4eRZ6gvKEI2ZhUQRXkQppjzO'),
+(3, 5, 'GEMMA', 'pellentesque.Sed@dominio.com.gt', '$2y$10$4aIT.BLjAFekcGb4ulKWiedmPKQMl4eRZ6gvKEI2ZhUQRXkQppjzO'),
+(4, 3, 'ALANA', 'vel.est@dominio.com.gt', '$2y$10$4aIT.BLjAFekcGb4ulKWiedmPKQMl4eRZ6gvKEI2ZhUQRXkQppjzO'),
 (5, 1, 'LUCIUS', 'posuere.cubilia@dominio.com.gt', '$2y$10$ZuKOG0uQYYycmulS53pNHeY4k7Ll.UzI9VBlDHYe1HNJ1gXUeon.C'),
 (6, 10, 'ELIANA', 'arcu.Nunc@dominio.com.gt', '$2y$10$IpDGNg8L5kKE1832dLhjBOZGx5zrRrlB4ud5hOBAL7itFmwF1Y5kW'),
 (7, 6, 'BAKER', 'nascetur.ridiculus@dominio.com.gt', '$2y$10$qMGU2FYstl0LincvXGZFBOZv14UQkZ38J3dAVxEV9mp8M0jAaaPE2'),
